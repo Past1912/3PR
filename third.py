@@ -12,6 +12,6 @@ def count_consonants(text):
 
 
 # Пример использования:
-input_text = input('Введите текст: ')
-number_of_consonants = count_consonants(input_text)
+input_txt = input('Введите текст: ')
+number_of_consonants = count_consonants(input_txt)
 print(f'Количество согласных в тексте: {number_of_consonants}')
