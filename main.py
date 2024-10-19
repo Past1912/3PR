@@ -11,5 +11,5 @@ def divide(a, b):
     return a / b
 
 # Пример использования:
-result = divide(280, 10)
+result = multiply(287, 18)
 print("Результат сложения:", result)
